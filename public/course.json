@@ -13,7 +13,7 @@
       "title": "Python Programming Masterclass",
       "description": "Python expert with this comprehensive course. Learn Python from scratch and build real-world projects.",
       "price":1200,
-      "credit": 7
+      "credit": 5
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "title": "Machines Learning and Essentials",
       "description": "Unlock the power of machine learning. Dive into algorithms, data analysis, and create predictive models.",
       "price": 1700,
-      "credit": 6
+      "credit": 2
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
       "title": "Digital Marketing Certification",
       "description": "Master the art of digital marketing. Learn SEO, social media marketing, email marketing, and more.",
       "price": 2000,
-      "credit": 6
+      "credit": 4
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@
       "title": "Mobile App Development with React Native",
       "description": "Build cross-platform mobile apps with React Native. Create apps for iOS and Android using JavaScript.",
       "price": 8999,
-      "credit": 8
+      "credit": 3
     },
     {
       "id": 6,
