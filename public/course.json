@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/4KD8FPJ/Rectangle-2-5.png",
+      "title": "Web Development Fundamentals",
+      "description": "Learn the basics of web development, including HTML, CSS, and JavaScript. Get started on your journey to becoming a web developer.",
+      "price": 1500,
+      "credit": 5
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/Hrg0dYS/Rectangle-2.png",
+      "title": "Python Programming Masterclass",
+      "description": "Python expert with this comprehensive course. Learn Python from scratch and build real-world projects.",
+      "price":1200,
+      "credit": 7
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/p2yY2n6/Rectangle-2-1.png",
+      "title": "Machines Learning and Essentials",
+      "description": "Unlock the power of machine learning. Dive into algorithms, data analysis, and create predictive models.",
+      "price": 1700,
+      "credit": 6
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/2WJHfCW/Rectangle-3.png",
+      "title": "Digital Marketing Certification",
+      "description": "Master the art of digital marketing. Learn SEO, social media marketing, email marketing, and more.",
+      "price": 2000,
+      "credit": 6
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/JzFHj7H/Rectangle-2-3.png",
+      "title": "Mobile App Development with React Native",
+      "description": "Build cross-platform mobile apps with React Native. Create apps for iOS and Android using JavaScript.",
+      "price": 8999,
+      "credit": 8
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/dkS34Fs/Rectangle-2-2.png",
+      "title": "Data Science Bootcamp",
+      "description": "Become a data scientist. Analyze data, create data visualizations, and make data-driven decisions.",
+      "price": 9999,
+      "credit": 10
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/7JDJZvV/Rectangle-2-4.png",
+      "title": "Cybersecurity Fundamentals",
+      "description": "Protect against cyber threats. Learn about network security, ethical hacking, and cybersecurity best practices.",
+      "price": 5999,
+      "credit": 6
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/pvPp2T4/Rectangle-2-6.png",
+      "title": "UX/UI Design Principles",
+      "description": "Design user-friendly interfaces. Understand user experience and user interface design principles.",
+      "price": 4999,
+      "credit": 5
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/vwyztTQ/Rectangle-3-1.png",
+      "title": "Cloud Computing and AWS Certification",
+      "description": "Master cloud computing and get AWS certified. Learn to deploy and manage cloud-based applications.",
+      "price": 7999,
+      "credit": 7
+    }
+  ]
+  
